@@ -1,6 +1,7 @@
 # mttrly MCP Server
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![smithery badge](https://smithery.ai/badge/dvmaslennikov/mttrly)](https://smithery.ai/servers/dvmaslennikov/mttrly)
 
 Remote MCP access to mttrly, an AI SRE agent for server health, diagnostics, playbooks, approvals, and audit history.
 
