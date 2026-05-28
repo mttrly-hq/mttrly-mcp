@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![smithery badge](https://smithery.ai/badge/dvmaslennikov/mttrly)](https://smithery.ai/servers/dvmaslennikov/mttrly)
+[![Glama](https://glama.ai/mcp/servers/mttrly-hq/mttrly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mttrly-hq/mttrly-mcp)
 
 Remote MCP access to mttrly, an AI SRE agent for server health, diagnostics, playbooks, approvals, and audit history.
 
